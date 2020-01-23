@@ -182,8 +182,9 @@ namespace restapi.Controllers
                     return StatusCode(409, new InvalidStateError() { });
                 }
 
-            //replacing line
+            //replacing old line with new line
             var newLine = timecard.ReplaceLine(docId, documentLine);
+            repository.Update(timecard);
 
             return Ok(newLine);
         }
