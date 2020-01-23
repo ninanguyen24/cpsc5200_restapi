@@ -1,3 +1,6 @@
+# Nina Nguyen
+# CPSC 5200 Winter 2020
+
 # REST API example
 
 This is the REST API example project from the first night of class. The following explain
