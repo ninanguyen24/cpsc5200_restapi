@@ -1,0 +1,14 @@
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\bin\Debug\netcoreapp2.2\restapi.deps.json
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\bin\Debug\netcoreapp2.2\restapi.runtimeconfig.json
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\bin\Debug\netcoreapp2.2\restapi.runtimeconfig.dev.json
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\bin\Debug\netcoreapp2.2\restapi.dll
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\bin\Debug\netcoreapp2.2\restapi.pdb
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.csprojAssemblyReference.cache
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.RazorAssemblyInfo.cache
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.RazorAssemblyInfo.cs
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.AssemblyInfoInputs.cache
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.AssemblyInfo.cs
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.RazorTargetAssemblyInfo.cache
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.dll
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.pdb
+C:\Users\Nina\OneDrive\Back To School\CPSC 5200 - SW Architecture and Design\Assignment1\restapi\obj\Debug\netcoreapp2.2\restapi.csproj.CoreCompileInputs.cache
